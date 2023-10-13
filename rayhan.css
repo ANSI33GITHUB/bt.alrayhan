@@ -1,0 +1,570 @@
+.full{
+    display: flex;
+    width: 100%;
+}
+
+.first{
+    width: 100%;
+    height: 60px;
+    background: black;
+    color: #737074;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    
+}
+.first p{
+    margin-left: 80px;
+    padding-top: 10px;
+
+}
+.icon{
+    background: black;
+    height: 40px;
+    width: 100px;
+    color: #737074;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.two{
+    width: 100%;
+    height: 110px;
+    background-color: white;
+    display: flex;
+}
+.eye{
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.details{
+    margin-left: 200px;
+    color: #333333;
+    font-size: 11px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    margin-top: 20px;
+}
+.details1{
+    color: #333333;
+    font-size: 11px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.details2{
+    color: #333333;
+    font-size: 11px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.details i{
+    color: #676cb8;
+    font-size: 25px;
+
+}
+
+.details1 i{
+    color: #676cb8;
+    font-size: 25px;
+
+}
+.details2 i{
+    color: #676cb8;
+    font-size: 25px;
+
+}
+.three{
+    width: 93.2%;
+    height: 35px;
+    background-color: #eb3f6a;
+    margin-left: 62px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    padding-top: 10px;
+    font-size: 14px;
+}
+
+ul:hover{
+    color: rgb(75, 59, 59);
+}
+.four{
+    width: 100%;
+    height: 240px;
+}
+.five{
+    width: 100%;
+    height: 1500px;
+    background-color: #f4f7fa;
+}
+.six{
+    display: flex;
+    padding-top: 60px;
+}
+.feature h1{
+    color: #13304f;
+    font-size: 32px;
+    line-height: 30px;
+    font-weight: 700;
+    font-family:  "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-left: 80px;
+}
+.feature1 h1{
+    color: #1f6bbe;
+    font-weight: 300;
+   font-family:  "Helvetica Neue",Helvetica,Arial,sans-serif;
+   margin-left: 15px;
+}
+.seven{
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
+
+.main{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+.seven .text{
+ color:  #113b69;
+ cursor: pointer;
+ font-size: 18px;
+    line-height: 22px;
+    font-weight: 700;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-top: 40px;
+}
+.text:hover{
+    color: #676cb8;
+}
+.seven button{
+    color: white;
+    background-color: #da657e;
+    border: #da657e;
+    height: 40px;
+    width: 160px;
+    border-radius: 23px;
+    font-weight: bold;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-top: 20px;
+}
+.seven button:hover{
+background-color: #676cb8;
+}
+.eight .text{
+    color:  #113b69;
+    cursor: pointer;
+    font-size: 18px;
+       line-height: 22px;
+       font-weight: 700;
+       font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+       margin-top: 40px;
+   }
+   .text:hover{
+       color: #676cb8;
+   }
+   .eight button{
+       color: white;
+       background-color: #da657e;
+       border: #da657e;
+       height: 40px;
+       width: 160px;
+       border-radius: 23px;
+       font-weight: bold;
+       font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+       margin-top: 20px;
+   }
+   .eight button:hover{
+   background-color: #676cb8;
+   }
+   .nine .text{
+    color:  #113b69;
+    cursor: pointer;
+    font-size: 18px;
+       line-height: 22px;
+       font-weight: 700;
+       font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+       margin-top: 40px;
+   }
+   .text:hover{
+       color: #676cb8;
+   }
+   .nine button{
+       color: white;
+       background-color: #da657e;
+       border: #da657e;
+       height: 40px;
+       width: 160px;
+       border-radius: 23px;
+       font-weight: bold;
+       font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+       margin-top: 20px;
+   }
+   .nine button:hover{
+   background-color: #676cb8;
+   }
+   
+.main1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+.ten .text{
+ color:  #113b69;
+ cursor: pointer;
+ font-size: 18px;
+    line-height: 22px;
+    font-weight: 700;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-top: 40px;
+}
+.text:hover{
+    color: #676cb8;
+}
+.ten button{
+    color: white;
+    background-color: #da657e;
+    border: #da657e;
+    height: 40px;
+    width: 160px;
+    border-radius: 23px;
+    font-weight: bold;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-top: 20px;
+}
+.ten button:hover{
+background-color: #676cb8;
+}
+.eleven .text{
+    color:  #113b69;
+    cursor: pointer;
+    font-size: 18px;
+       line-height: 22px;
+       font-weight: 700;
+       font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+       margin-top: 40px;
+   }
+   .text:hover{
+       color: #676cb8;
+   }
+   .eleven button{
+       color: white;
+       background-color: #da657e;
+       border: #da657e;
+       height: 40px;
+       width: 160px;
+       border-radius: 23px;
+       font-weight: bold;
+       font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+       margin-top: 20px;
+   }
+   .eleven button:hover{
+   background-color: #676cb8;
+   }
+   .twelve .text{
+    color:  #113b69;
+    cursor: pointer;
+    font-size: 18px;
+       line-height: 22px;
+       font-weight: 700;
+       font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+       margin-top: 40px;
+   }
+   .text:hover{
+       color: #676cb8;
+   }
+   .twelve button{
+       color: white;
+       background-color: #da657e;
+       border: #da657e;
+       height: 40px;
+       width: 160px;
+       border-radius: 23px;
+       font-weight: bold;
+       font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+       margin-top: 20px;
+   }
+   .twelve button:hover{
+   background-color: #676cb8;
+   }
+   .main2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+.thirteen .text{
+ color:  #113b69;
+ cursor: pointer;
+ font-size: 18px;
+    line-height: 22px;
+    font-weight: 700;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-top: 40px;
+}
+.text:hover{
+    color: #676cb8;
+}
+.thirteen button{
+    color: white;
+    background-color: #da657e;
+    border: #da657e;
+    height: 40px;
+    width: 160px;
+    border-radius: 23px;
+    font-weight: bold;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-top: 20px;
+}
+.thirteen button:hover{
+background-color: #676cb8;
+}
+.thirteen .text{
+    color:  #113b69;
+    cursor: pointer;
+    font-size: 18px;
+       line-height: 22px;
+       font-weight: 700;
+       font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+       margin-top: 40px;
+   }
+   .text:hover{
+       color: #676cb8;
+   }
+   .forteen button{
+       color: white;
+       background-color: #da657e;
+       border: #da657e;
+       height: 40px;
+       width: 160px;
+       border-radius: 23px;
+       font-weight: bold;
+       font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+       margin-top: 20px;
+   }
+   .forteen button:hover{
+   background-color: #676cb8;
+   }
+   .forteen .text{
+    color:  #113b69;
+    cursor: pointer;
+    font-size: 18px;
+       line-height: 22px;
+       font-weight: 700;
+       font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+       margin-top: 40px;
+   }
+   .text:hover{
+       color: #676cb8;
+   }
+   .fifteen button{
+       color: white;
+       background-color: #da657e;
+       border: #da657e;
+       height: 40px;
+       width: 160px;
+       border-radius: 23px;
+       font-weight: bold;
+       font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+       margin-top: 20px;
+   }
+   .fifteen button:hover{
+   background-color: #676cb8;
+   }
+   
+   .fifteen button{
+    color: white;
+    background-color: #da657e;
+    border: #da657e;
+    height: 40px;
+    width: 160px;
+    border-radius: 23px;
+    font-weight: bold;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-top: 20px;
+}
+.fifteen button:hover{
+background-color: #676cb8;
+}
+.fifteen .text{
+ color:  #113b69;
+ cursor: pointer;
+ font-size: 18px;
+    line-height: 22px;
+    font-weight: 700;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-top: 40px;
+}
+.text:hover{
+    color: #676cb8;
+}
+.fifteen button{
+    color: white;
+    background-color: #da657e;
+    border: #da657e;
+    height: 40px;
+    width: 160px;
+    border-radius: 23px;
+    font-weight: bold;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-top: 20px;
+}
+.fifteen button:hover{
+background-color: #676cb8;
+}
+
+.main3{
+    margin-top: 30px;
+    margin-left: 60px;
+}
+.sixteen button{
+    color: white;
+    background-color: #da657e;
+    border: #da657e;
+    height: 40px;
+    width: 160px;
+    border-radius: 23px;
+    font-weight: bold;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-top: 20px;
+}
+.sixteen button:hover{
+background-color: #676cb8;
+}
+.sixteen .text{
+ color:  #113b69;
+ cursor: pointer;
+ font-size: 18px;
+    line-height: 22px;
+    font-weight: 700;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-top: 40px;
+}
+.text:hover{
+    color: #676cb8;
+}
+.sixteen button{
+    color: white;
+    background-color: #da657e;
+    border: #da657e;
+    height: 40px;
+    width: 160px;
+    border-radius: 23px;
+    font-weight: bold;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-top: 20px;
+}
+.sixteen button:hover{
+background-color: #676cb8;
+}
+.footer-logo{
+    margin-top: 40px;
+    background-color:#242424 ;
+    font-family: 'Raleway';
+    color: #8e8d8d;
+    line-height: 30px;
+}
+.footer-logo h5{
+    color: #113b69;
+    font-size: 18px;
+}
+.last-pc{
+    width: 200px;
+}
+.heading{
+    width: 425px;
+    margin-left: 80px;
+    margin-top: 50px;
+    font-family: 'Open Sans';
+
+}
+.heading1{
+    width: 200px;
+    
+}
+.heading2{
+    margin-left: 17px;
+}
+.quick{
+    width: 200px;
+    margin-top: 55px;
+
+}
+.quick h1{
+    color: white;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.footer{
+    width: 100%;
+    height: 100px;
+    background-color: #13304f;
+    margin-top: 80px;
+    background: #676cb8;
+}
+.footer2{
+    display: flex;
+    width: 100%;
+    height: 37px;
+}
+.footer1{
+    display: flex;
+    width: 100%;
+    height: 40px;
+    background: #676cb8;
+}
+.footer1 .foot1{
+    font-size: 30px;
+    line-height: 10px;
+    font-weight: 700;
+    color: #fff;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.footer1 .foot2{
+    font-size: 30px;
+    line-height: 10px;
+    font-weight: bold;
+font-style: italic;
+    color: #fff;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.footer button{
+    width: 250px;
+    height: 50px;
+    background: #fff;
+    color: #000;
+    border-radius: 30px;
+    margin-top: 20px;
+    font-weight: 700;
+    border: #fff;
+}
+.footer h3{
+    color: white;
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+
+.footer-logo{
+    display: flex;
+    justify-content: left;
+}
+.about{
+    margin-top: 90px;
+}
+.heading3{
+    margin-top: 40px;
+    font-size: 12px;
+    color: white;
+    margin-left: 90px;
+}
+.heading3 video{
+    padding-top: 10px;
+}
